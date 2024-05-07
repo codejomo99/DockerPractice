@@ -7,3 +7,7 @@
 /dataSources/
 /dataSources.local.xml
 .idea/
+/checkstyle-idea.xml
+/docker-practice.iml
+/misc.xml
+/modules.xml
